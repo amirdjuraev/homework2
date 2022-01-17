@@ -1,0 +1,105 @@
+.odd {
+    color: red;
+}
+
+.eve {
+    color: green;
+}
+
+.eee {
+    color: red;
+}
+
+.xxx {
+    font-size: 30px;
+}
+
+.a {
+    background-color: red;
+}
+
+.b {
+    background-color: green;
+}
+
+.c {
+    background-color: blue;
+}
+
+.d {
+    background-color: red;
+}
+
+.e {
+    background-color: green;
+}
+
+
+/* Задание 7 */
+
+
+/* .eee,
+.zzz {
+    line-height: 1.5;
+    font-family: Arial;
+}
+
+.eee {
+    font-size: 20px;
+}
+
+.zzz {
+    font-size: 30px;
+} */
+
+
+/* Задание 8 */
+
+
+/* .eee,
+.zzz,
+.ggg {
+    text-align: center;
+    font-family: Arial;
+}
+
+.eee {
+    font-size: 20px;
+}
+
+.zzz {
+    font-size: 30px;
+}
+
+.ggg {
+    font-size: 35px;
+} */
+
+h2 .header {
+    font-size: 40px;
+}
+
+h3 .header {
+    font-size: 30px;
+}
+
+
+/* p i .eed {
+    color: red;
+} */
+
+.eee .bbb {
+    color: red;
+}
+
+.eee h2 {
+    color: red;
+}
+
+.eee h2 .bbb {
+    color: red;
+}
+
+.eee h3 .bbb {
+    color: red;
+}
